@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuotesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7bc6a1e5a1a81148a4c58759976ee02511e0fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac30c1a5ae745ff9c13656404f3d30ac1a5706e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuotesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuotesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
