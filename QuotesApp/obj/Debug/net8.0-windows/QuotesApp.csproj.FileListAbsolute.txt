@@ -1,0 +1,15 @@
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\bin\Debug\net8.0-windows\QuotesApp.exe
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\bin\Debug\net8.0-windows\QuotesApp.deps.json
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\bin\Debug\net8.0-windows\QuotesApp.runtimeconfig.json
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\bin\Debug\net8.0-windows\QuotesApp.dll
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\bin\Debug\net8.0-windows\QuotesApp.pdb
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.AssemblyInfoInputs.cache
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.AssemblyInfo.cs
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.sourcelink.json
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.dll
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\refint\QuotesApp.dll
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.pdb
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\QuotesApp.genruntimeconfig.cache
+C:\Users\Андрей\OneDrive\Desktop\CsharpCoursework\QuotesApp\obj\Debug\net8.0-windows\ref\QuotesApp.dll
